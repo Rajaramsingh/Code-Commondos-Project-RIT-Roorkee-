@@ -116,6 +116,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 For any queries, please reach out to:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- Website: [Your Website]
+- Email: rajaramsinghcse27@gmail.com
+- LinkedIn: www.linkedin.com/in/rajaram-singh-4b620029a
+
