@@ -103,7 +103,10 @@ npm start
 - [ ] ## 👥 Team
 
 - **Raja Ram Singh** - Full Stack Developer
-- [Add other team members]
+- **Anupam Anand** - Frontend Developer
+- **Abhishek Suman** - Backend Developer
+-  **Arushi Singh** - Database Developer
+
 
 ## 📄 License
 
